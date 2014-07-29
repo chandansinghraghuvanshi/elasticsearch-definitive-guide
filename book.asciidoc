@@ -45,7 +45,7 @@ include::130_Partial_Matching.asciidoc[]
 
 include::170_Relevance.asciidoc[]
 
-include::180_Non_Prose.asciidoc[]
+// include::180_Non_Prose.asciidoc[]
 
 
 // Part 3
@@ -83,8 +83,8 @@ include::305_Significant_Terms.asciidoc[]
 include::306_Practical_Considerations.asciidoc[]
 
 // Part 5
-[[more-than-search]]
-= More than search (TODO)
+// [[more-than-search]]
+// = More than search (TODO)
 
 include::310_Geolocation.asciidoc[]
 
@@ -94,9 +94,7 @@ include::330_Scripting.asciidoc[]
 
 // Part 6
 
-[[modelling-your-data]]
-
-= Modelling your data (TODO)
+include::06_Modeling_your_data.asciidoc[]
 
 include::400_Relationships.asciidoc[]
 
@@ -116,7 +114,7 @@ include::500_Cluster_Admin.asciidoc[]
 
 include::510_Deployment.asciidoc[]
 
-include::520_Lucene.asciidoc[]
+// include::520_Lucene.asciidoc[]
 
 [[TODO]]
 [appendix]
